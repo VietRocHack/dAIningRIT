@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+@import url('https://fonts.cdnfonts.com/css/cormorant-medium');
+
+.homepage {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: 'Cormorant Medium', sans-serif;
+    font-family: 'Cormorant', sans-serif;
+    font-family: 'Cormorant Garamond', sans-serif;
+    font-family: 'Cormorant Infant', sans-serif;
+    font-family: 'Cormorant SC', sans-serif;
+    font-family: 'Cormorant Unicase', sans-serif;
+    font-family: 'Cormorant Upright', sans-serif;
+    font-family: 'Cormorant Garamond Light', sans-serif;
+    font-family: 'Cormorant Infant Light', sans-serif;
+    font-family: 'Cormorant SC Light', sans-serif;
+    font-family: 'Cormorant Unicase Light', sans-serif;
+    font-family: 'Cormorant Upright Light', sans-serif;
+    font-family: 'Cormorant Light', sans-serif;
+    font-family: 'Cormorant Garamond Medium', sans-serif;
+    font-family: 'Cormorant Infant Medium', sans-serif;
+    font-family: 'Cormorant SC Medium', sans-serif;
+    font-family: 'Cormorant Unicase Medium', sans-serif;
+    font-family: 'Cormorant Upright Medium', sans-serif;
+    font-family: 'Cormorant SemiBold', sans-serif;
+    font-family: 'Cormorant Garamond SemiBold', sans-serif;
+    font-family: 'Cormorant Infant SemiBold', sans-serif;
+    font-family: 'Cormorant SC SemiBold', sans-serif;
+    font-family: 'Cormorant Unicase Semibold', sans-serif;
+    font-family: 'Cormorant Upright Semibold', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    height: 900px;
+}
+
+
+.motto {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+.app-name {
+    font-size: 80px;
+    margin-top: 0px;
+}   
+
+.tiger {
+    width: 380px;
+    max-height: 700px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.landing-btn {
+	min-width: 300px;
+}

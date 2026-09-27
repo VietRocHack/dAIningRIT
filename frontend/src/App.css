@@ -1,0 +1,37 @@
+@import url('https://fonts.cdnfonts.com/css/cormorant-medium');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(29, 26, 26);
+  font-family: 'Cormorant Medium', sans-serif;
+  font-family: 'Cormorant', sans-serif;
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-family: 'Cormorant Infant', sans-serif;
+  font-family: 'Cormorant SC', sans-serif;
+  font-family: 'Cormorant Unicase', sans-serif;
+  font-family: 'Cormorant Upright', sans-serif;
+  font-family: 'Cormorant Garamond Light', sans-serif;
+  font-family: 'Cormorant Infant Light', sans-serif;
+  font-family: 'Cormorant SC Light', sans-serif;
+  font-family: 'Cormorant Unicase Light', sans-serif;
+  font-family: 'Cormorant Upright Light', sans-serif;
+  font-family: 'Cormorant Light', sans-serif;
+  font-family: 'Cormorant Garamond Medium', sans-serif;
+  font-family: 'Cormorant Infant Medium', sans-serif;
+  font-family: 'Cormorant SC Medium', sans-serif;
+  font-family: 'Cormorant Unicase Medium', sans-serif;
+  font-family: 'Cormorant Upright Medium', sans-serif;
+  font-family: 'Cormorant SemiBold', sans-serif;
+  font-family: 'Cormorant Garamond SemiBold', sans-serif;
+  font-family: 'Cormorant Infant SemiBold', sans-serif;
+  font-family: 'Cormorant SC SemiBold', sans-serif;
+  font-family: 'Cormorant Unicase Semibold', sans-serif;
+  font-family: 'Cormorant Upright Semibold', sans-serif;
+  font-size: larger;
+  background: url("./assets/bground.jpg") center/cover no-repeat fixed;
+}
