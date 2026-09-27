@@ -117,3 +117,16 @@ ul {
 .test {
   color: white;
 }
+
+.list ul li.picked:before {
+  transform: scaleX(1);
+}
+.list ul li.picked span {
+  color: #111;
+}
+
+.button-74:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}

@@ -74,3 +74,28 @@ ul {
 .vote-numbers {
     margin-right: 5px;
 }
+.ranking-page {
+    margin: 0 auto;
+    position: relative;
+    height: auto;
+    min-height: 100vh;
+}
+
+.back-link {
+    position: absolute;
+    top: 28px;
+    left: 20px;
+}
+
+.post {
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.ranking-images.placeholder {
+    object-fit: contain;
+}
+
+.empty {
+    text-align: center;
+}

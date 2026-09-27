@@ -32,7 +32,8 @@
     font-family: 'Cormorant Upright Semibold', sans-serif;
     font-weight: 400;
     font-style: normal;
-    height: 900px;
+    min-height: 80vh;
+    padding: 1px 16px 0;
 }
 
 

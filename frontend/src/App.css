@@ -35,3 +35,13 @@ body {
   font-size: larger;
   background: url("./assets/bground.jpg") center/cover no-repeat fixed;
 }
+.site-footer {
+  text-align: center;
+  color: #bdbdbd;
+  font-size: 16px;
+  padding: 24px 16px;
+}
+
+.site-footer a {
+  color: #72ea7e;
+}

@@ -1,6 +1,0 @@
-functions-framework==3.*
-requests
-python-dotenv
-firebase-admin
-datetime
-google
